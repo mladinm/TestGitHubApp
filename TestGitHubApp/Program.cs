@@ -8,6 +8,7 @@ namespace TestGitHubApp
         {
             Console.WriteLine("Hello World man!");
             Console.WriteLine("Hello World man 2!");
+            Console.WriteLine("Hello World man 3!");
         }
     }
 }
