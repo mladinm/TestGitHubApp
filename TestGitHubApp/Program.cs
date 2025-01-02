@@ -16,6 +16,8 @@ namespace TestGitHubApp
             Console.WriteLine("This is develop change");
 
             Console.WriteLine("This is develop change 2");
+
+            Console.WriteLine("This is develop change 3");
         }
     }
 }
